@@ -1290,6 +1290,12 @@ websites:
       - proprietary
       - hardware
     doc: https://www.zkb.ch/de/pr/pk/efinance/ebanking/login-verfahren.html
+    
+  - name: Zelle
+    url: https://www.zellepay.com
+    img: zelle.png
+    twitter: Zelle
+    facebook: zellepay
 
   - name: ČSOB (Czech)
     url: https://www.csob.cz/
